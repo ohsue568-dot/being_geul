@@ -1,5 +1,6 @@
-장자크 상페풍 “웰니스 라이프 행동 양식” 일러스트 프롬프트 (Korean)
-🧘 [웰니스 정책 썸네일 — 행동 기반 프롬프트]
+# 장자크 상페풍 “웰니스 라이프 행동 양식” 일러스트 프롬프트 (Korean)
+
+## 🧘 웰니스 정책 썸네일 — 행동 기반 프롬프트
 장자크 상페(Jean-Jacques Sempé) 스타일의 가는 펜선 손그림.
 웰니스 라이프를 실천하는 2030 청년의 일상을 포착한 장면.
 가벼운 요가 스트레칭을 하거나, 벤치에서 책을 읽거나,
@@ -11,7 +12,7 @@
 여백이 많은 화면, 종이 질감, 부드러운 수채화 음영.
 따뜻하고 잔잔하며 ‘삶의 균형’을 상징하는 분위기.
 
-🏃 [활동적인 웰니스 — 운동 기반 프롬프트]
+## 🏃 활동적인 웰니스 — 운동 기반 프롬프트
 Sempé풍 가는 선 드로잉.
 2030 청년이 가벼운 조깅, 자전거 타기, 반려견과 산책하는 모습.
 멀리 작고 귀여운 나무와 길가 풍경이 상페 스타일로 표현됨.
@@ -19,7 +20,7 @@ Sempé풍 가는 선 드로잉.
 파스텔 베이지·노랑 계열의 포근한 색감.
 가벼움, 유머, 웰빙이 느껴지는 친근한 분위기.
 
-🌿 [정서적 웰빙 — 감성 기반 프롬프트]
+## 🌿 정서적 웰빙 — 감성 기반 프롬프트
 장자크 상페 스타일의 섬세한 손그림.
 청년이 일기 작성, 음악 감상, 조용한 갤러리 방문,
 식물 가꾸기 등 감성 활동을 즐기는 모습.
@@ -28,8 +29,11 @@ Sempé풍 가는 선 드로잉.
 은은한 연노랑·베이지 색감.
 여백이 많고 가벼운 선 중심의 따뜻한 일러스트.
 
-3) English Version — Wellness Behavior Prompts (Sempé Style)
-🧘 [Wellness Life — Mindfulness & Daily Balance]
+---
+
+# English Version — Wellness Behavior Prompts (Sempé Style)
+
+## 🧘 Wellness Life — Mindfulness & Daily Balance
 Hand-drawn illustration in Jean-Jacques Sempé’s delicate ink-line style.
 A 2030 young adult practicing wellness habits—
 light stretching, reading on a bench, drinking warm tea,
@@ -40,7 +44,7 @@ Soft pastel palette in beige, pale yellow, and silver.
 Large negative space, paper texture, airy watercolor shading.
 Warm, gentle, and balanced mood.
 
-🏃 [Active Wellness — Exercise & Light Routine]
+## 🏃 Active Wellness — Exercise & Light Routine
 Sempé-inspired thin-line sketch.
 A young adult jogging lightly, riding a bicycle,
 or walking a dog in a peaceful townscape.
@@ -49,7 +53,7 @@ Floating health icons: sneakers, heart-rate graph, stopwatch.
 Soft pastel beige-yellow colors.
 Light, humorous, and wellness-centered atmosphere.
 
-🌿 [Emotional Wellness — Calm & Sensory Activities]
+## 🌿 Emotional Wellness — Calm & Sensory Activities
 Delicate Sempé-style hand-drawn illustration.
 A young adult journaling, listening to music,
 visiting a gallery, or tending to plants.
