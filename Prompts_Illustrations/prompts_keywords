@@ -1,0 +1,102 @@
+# 🎨 정책 틴더 일러스트 이미지 프롬프트 30가지 (최종 정리)
+
+## 1. 🖼️ 최종 스타일 및 컬러 코드 조건
+
+| 항목 | 상세 조건 | Hex Code | 비고 |
+| :--- | :--- | :--- | :--- |
+| **비율/구도** | 1:1 정방향, 캐릭터가 프레임에 꽉 차게 | - | - |
+| **스타일** | 두꺼운 검은선 드로잉, 친근한 그래픽 일러스트, 볼터치/과한 디테일 없이 깔끔한 디자인 | - | - |
+| **선 (Outline)** | 두꺼운 검은색 선 | `#353535` | Dark Gray |
+| **배경 (Background)** | 순수한 흰색, 최소화 | `#FFFFFF` | |
+| **컬러 사용** | 포인트 컬러 (키 컬러)만 사용하여 최소화 | - | |
+
+## 2. 🌈 카테고리별 키 컬러 (Key Color)
+
+| 카테고리 | 키 컬러 (Hex Code) | 색상명 |
+| :--- | :--- | :--- |
+| **교육 (E)** | `#7FBABF` | 부드러운 청록색 계열 |
+| **주거 (L)** | `#F8AD89` | 부드러운 주황색 계열 |
+| **금융 (F)** | `#DCC495` | 부드러운 황갈색 계열 |
+| **복지 (W)** | `#937BBF` | 부드러운 보라색 계열 |
+| **취업 (C)** | `#A3E1B4` | 부드러운 연두색 계열 |
+| **참여 (P)** | `#F77D7D` | 부드러운 빨간색 계열 |
+
+---
+
+## 3. ✍️ 일러스트 이미지 프롬프트 30가지 목록
+
+### [공통 시작 프롬프트]
+1:1 square aspect ratio, Thick outline line drawing style, friendly graphic illustration, character filling the frame, clean design, no blush or overly cute details. Limited color palette: Pure white background (#FFFFFF), Outline #353535 (dark gray), using only one key accent color.
+
+
+---
+
+### 1순위: 교육/역량 (E) - 키 컬러: `#7FBABF` (청록)
+
+| No. | 2순위 테마 | 동작/묘사 프롬프트 (최종) |
+| :---: | :---: | :--- |
+| **1** | 금융 (F) | 미래 투자: A smiling young person holding a lightbulb and confidently juggling a few coins. Their shirt and the lightbulb are `#7FBABF` (teal). Simple piggy bank icon nearby. |
+| **2** | 취업 (C) | 실용 학습: A young person happily sitting and learning, looking at a portfolio or open textbook with an excited expression. The book cover and their outfit are `#7FBABF` (teal). Simple laptop icon next to them. |
+| **3** | 주거 (L) | 교육 환경: A focused young person studying at a clean desk, feeling relaxed and determined. The desk and their outfit are `#7FBABF` (teal). Minimal house icon in the corner. |
+| **4** | 복지 (W) | 평생 학습: A cheerful older adult and a young person sharing a book and discussing it, both smiling warmly. The book cover and the young person's shirt are `#7FBABF` (teal). |
+| **5** | 참여 (P) | 시민 교육: A young person enthusiastically reading a book and gesturing during a discussion with a speech bubble icon. Their outfit and the speech bubble are `#7FBABF` (teal). |
+
+---
+
+### 1순위: 금융/자산 (F) - 키 컬러: `#DCC495` (황갈색)
+
+| No. | 2순위 테마 | 동작/묘사 프롬프트 (최종) |
+| :---: | :---: | :--- |
+| **6** | 교육 (E) | 금융 지식: A young person reading a book on money management, cheerfully placing a coin into a smiling piggy bank. The piggy bank and their outfit are `#DCC495` (tan). |
+| **7** | 취업 (C) | 자금 확보: A young entrepreneur holding a key and looking excitedly at a briefcase filled with money, symbolizing securing startup capital. The briefcase and their outfit are `#DCC495` (tan). |
+| **8** | 주거 (L) | 주택 자금: A determined young person putting coins into a large transparent jar with a simple house icon on it, focused on saving. The house icon and their outfit are `#DCC495` (tan). |
+| **9** | 복지 (W) | 의료 비용: A young person holding a medical insurance card and feeling visibly relieved, with a simple heart icon floating nearby. The card and their outfit are `#DCC495` (tan). |
+| **10** | 참여 (P) | 세금/공정: A young person confidently holding a tax form or receipt, emphasizing transparency and economic rights. The form and their outfit are `#DCC495` (tan). |
+
+---
+
+### 1순위: 취업/창업 (C) - 키 컬러: `#A3E1B4` (연두색)
+
+| No. | 2순위 테마 | 동작/묘사 프롬프트 (최종) |
+| :---: | :---: | :--- |
+| **11** | 교육 (E) | 직무 능력: A young professional mastering a new skill on a computer, looking focused and competent with a cheerful expression. The computer screen and their outfit are `#A3E1B4` (light green). |
+| **12** | 금융 (F) | 안정적 수입: A young person joyfully holding a paycheck or bank deposit notice, beaming with pride and success. The notice and their outfit are `#A3E1B4` (light green). |
+| **13** | 주거 (L) | 직주근접/삶의 질: A young person happily bicycling or running between a house icon and an office icon, looking relaxed and energetic. The bicycle and their outfit are `#A3E1B4` (light green). |
+| **14** | 복지 (W) | 워라밸: A young person happily balancing a work symbol (laptop) and a leisure symbol (coffee/plant) on their hands, symbolizing harmony. The leisure symbol and their outfit are `#A3E1B4` (light green). |
+| **15** | 참여 (P) | 노동 권익: A young worker shaking hands firmly with another person over a contract, symbolizing fair negotiation and rights. The contract and their outfit are `#A3E1B4` (light green). |
+
+---
+
+### 1순위: 주거/생활 (L) - 키 컬러: `#F8AD89` (주황)
+
+| No. | 2순위 테마 | 동작/묘사 프롬프트 (최종) |
+| :---: | :---: | :--- |
+| **16** | 교육 (E) | 홈 스쿨링: A young person comfortably sitting on a couch, focused on an educational tablet, looking engaged. The tablet and their outfit are `#F8AD89` (orange). Simple book icon nearby. |
+| **17** | 금융 (F) | 재산 보호: A young person holding a house key, standing proudly in front of a secure, simple house icon with a protective shield symbol. The shield and their outfit are `#F8AD89` (orange). |
+| **18** | 취업 (C) | 재택근무/지역 일자리: A young person working efficiently on a laptop at a home desk, looking relaxed and productive. The desk and their outfit are `#F8AD89` (orange). A small window icon with a view. |
+| **19** | 복지 (W) | 안전한 보금자리: A young person peacefully resting/sleeping under a blanket in a simple bed, feeling warm and secure. The blanket and their outfit are `#F8AD89` (orange). |
+| **20** | 참여 (P) | 주민 자치: A young person and another resident discussing something with a map or local issue paper, standing near a community building icon. The paper and their outfit are `#F8AD89` (orange). |
+
+---
+
+### 1순위: 복지/건강 (W) - 키 컬러: `#937BBF` (보라)
+
+| No. | 2순위 테마 | 동작/묘사 프롬프트 (최종) |
+| :---: | :---: | :--- |
+| **21** | 교육 (E) | 건강 정보: A young person looking at a health tracking app on a phone, with a lightbulb appearing over their head, signifying new knowledge. The phone screen and their outfit are `#937BBF` (purple). |
+| **22** | 금융 (F) | 노후 대비: An older person happily gardening or playing a sport, with a small coin icon floating nearby, symbolizing secure retirement. The gardening tool and their outfit are `#937BBF` (purple). |
+| **23** | 취업 (C) | 산재 보험/출산 복지: A person working safely, being protected by a gentle, simple shield icon over their head. The shield and their outfit are `#937BBF` (purple). |
+| **24** | 주거 (L) | 쾌적한 환경: A young person taking a deep, satisfied breath of fresh air in a simple park setting with a clean air icon (leaf). The leaf and their outfit are `#937BBF` (purple). |
+| **25** | 참여 (P) | 소수자 권리: Two diverse individuals holding hands in solidarity, smiling warmly, symbolizing inclusion and equity. One person's shirt is `#937BBF` (purple). |
+
+---
+
+### 1순위: 참여/권리 (P) - 키 컬러: `#F77D7D` (빨강)
+
+| No. | 2순위 테마 | 동작/묘사 프롬프트 (최종) |
+| :---: | :---: | :--- |
+| **26** | 교육 (E) | 의견 제시: A young person raising their hand enthusiastically to speak, with a speech bubble icon above, looking confident. The speech bubble and their outfit are `#F77D7D` (red). |
+| **27** | 금융 (F) | 소비자 권익: A young person confidently pointing at a document or receipt, advocating for fair treatment. The document and their outfit are `#F77D7D` (red). |
+| **28** | 취업 (C) | 공정 채용: A young person opening a door of opportunity that has a balanced scale icon on it, looking hopeful and determined. The door and their outfit are `#F77D7D` (red). |
+| **29** | 주거 (L) | 투표/시민 참여: A young person happily putting a ballot into a ballot box with a cheerful expression, symbolizing civic duty. The ballot box and their outfit are `#F77D7D` (red). |
+| **30** | 복지 (W) | 정책 제안: A young person holding a sign or large paper with a suggestion/idea written on it, looking persuasive and engaged. The sign and their outfit are `#F77D7D` (red). |
